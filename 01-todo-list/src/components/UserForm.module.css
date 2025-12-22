@@ -1,0 +1,21 @@
+.form {
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  box-shadow: 2px 2px;
+  width: 100%;
+  max-width: 250px;
+  margin: 0 auto;
+}
+.formControl {
+  display: block;
+  margin-bottom: 10px;
+}
+.formControlBtn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.error {
+  color: red;
+}

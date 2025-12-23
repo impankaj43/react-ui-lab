@@ -1,0 +1,14 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+:root {
+  --bg-color: white;
+  --text-color: black;
+  --color-for-text-with-bg: black;
+}
+[data-theme="dark"] {
+  --text-color: rgb(255, 255, 255);
+  --bg-color: rgb(48, 47, 47);
+  --color-for-text-with-bg: blue;
+}

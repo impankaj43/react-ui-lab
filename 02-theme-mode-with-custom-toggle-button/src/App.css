@@ -1,0 +1,37 @@
+.asBody {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+}
+.main {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.addAndMode {
+  display: flex;
+  justify-content: space-between;
+}
+
+.addBtn {
+  padding: 8px 12px;
+  font-weight: bold;
+  border: 1px solid green;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}
+
+.userSection h3 {
+  padding: 6px;
+  text-align: center;
+  background-color: rgb(220, 215, 215);
+  color: var(--color-for-text-with-bg);
+}

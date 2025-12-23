@@ -1,0 +1,21 @@
+.itemToFlex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.itemToFlex button {
+  padding: 5px 8px;
+  min-width: 100px;
+}
+.itemToFlex_data {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.item {
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding: 16px;
+  width: 400px;
+  margin: 0 auto;
+}

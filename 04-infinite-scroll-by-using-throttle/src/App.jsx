@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div className="main">
-      <h2>Infinite Scroll (Fixed)</h2>
+      <h2>Infinite Scroll (Using Throttle)</h2>
 
       {products.map((product, index) => (
         <Card key={`${product.id}-${index}`} product={product} />

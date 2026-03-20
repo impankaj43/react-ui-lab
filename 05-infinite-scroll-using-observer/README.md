@@ -1,4 +1,4 @@
-# 📃 Todo List
+# ♾️ Infinite-Scroll-using-Observer 👁️
 
 🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
 📁 Path: `react-machine-coding-practice/05-infinite-scroll-using-observer`

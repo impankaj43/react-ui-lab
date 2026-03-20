@@ -1,7 +1,7 @@
 # 📦 Offset-Based Pagination Products Page
 
 🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/05-infinite-scroll-using-observer`
+📁 Path: `react-machine-coding-practice/06-offset-pagination`
 
 This project demonstrates a robust **Offset-Based Pagination** system built with React. It efficiently fetches and displays products from a **REST API (dummyjson.com)**, allowing users to navigate through large datasets using a controlled, interactive pagination bar.
 
@@ -17,13 +17,13 @@ This project demonstrates a robust **Offset-Based Pagination** system built with
 
 ## 🚀 How to Use This Project
 
-You can **download only the `05-infinite-scroll-using-observer` folder** from the repo, or clone the full repo and navigate to this folder.
+You can **download only the `06-offset-pagination` folder** from the repo, or clone the full repo and navigate to this folder.
 
 ### ▶️ Steps to Run:
 
 ```bash
 # Step 1: Navigate to the project folder
-cd 05-infinite-scroll-using-observer
+cd 06-offset-pagination
 
 # Step 2: Install dependencies
 npm install

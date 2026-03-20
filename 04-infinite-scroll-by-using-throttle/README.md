@@ -1,4 +1,4 @@
-# 📃 Todo List
+# ♾️ Infinite-Scroll-by-using-Throttle ⏱️
 
 🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
 📁 Path: `react-machine-coding-practice/04-infinite-scroll-by-using-throttle`

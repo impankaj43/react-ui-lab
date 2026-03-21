@@ -1,12 +1,30 @@
-import React from "react";
+import React, { useEffect, useMemo } from "react";
 import "../App.css";
 
 function Pagination(props) {
-  const pages = [];
   const totalPages = Math.ceil(props.totalProducts / props.limit);
-  for (let i = 1; i < totalPages + 1; i++) {
-    pages.push(i);
-  }
+  const maxVisible = 11;
+
+  const pages = useMemo(() => {
+    const pageArray = [];
+    const half = Math.floor(maxVisible / 2);
+    let start = props.currentPage - half;
+    let end = props.currentPage + half;
+    if (start <= 1) {
+      start = 1;
+      end = Math.min(totalPages, maxVisible);
+    }
+    if (end >= totalPages) {
+      end = totalPages;
+      start = Math.max(1, totalPages - maxVisible + 1);
+    }
+
+    for (let i = start; i < end + 1; i++) {
+      pageArray.push(i);
+    }
+    return pageArray;
+  }, [props.totalProducts, props.limit, props.currentPage]);
+
   return (
     <div className="pagination-section">
       <button

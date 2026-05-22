@@ -1,7 +1,7 @@
 # 🔍Debounce-Based Searchable Dropdown
 
-🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/03-debounce-searchable-dropdown`
+🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
+📁 Path: `react-ui-lab/03-debounce-searchable-dropdown`
 
 This project demonstrates a searchable dropdown built using React that implements **Debounced Search** to optimize user input handling.
 The component fetches user data from an API based on the search query, reducing unnecessary requests.

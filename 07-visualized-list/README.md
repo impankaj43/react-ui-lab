@@ -1,7 +1,7 @@
 # 📦 Offset-Based Pagination Products Page
 
-🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/07-visulaized-list`
+🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
+📁 Path: `react-ui-lab/07-visulaized-list`
 
 This section demonstrates a custom **Virtualized List (Windowing)** component. Unlike standard lists that render every single item at once—which can crash a browser when dealing with thousands of rows—this implementation only renders the items currently visible in the viewport.
 

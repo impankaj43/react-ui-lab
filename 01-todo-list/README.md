@@ -1,7 +1,7 @@
 # 📃 Todo List
 
-🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/01-todo-list`
+🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
+📁 Path: `react-ui-lab/01-todo-list`
 
 This project demonstrates how to build a User Management (Todo-style) application in React with complete form handling. Users can create, update, and delete user records using a dynamic form that supports multiple input types, including file uploads. The project also includes real-time image preview, controlled components, and state-driven UI updates, ensuring a clean and scalable React and JavaScript implementation.
 

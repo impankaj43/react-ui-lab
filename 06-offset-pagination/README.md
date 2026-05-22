@@ -1,7 +1,7 @@
 # 📦 Offset-Based Pagination Products Page
 
-🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/06-offset-pagination`
+🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
+📁 Path: `react-ui-lab/06-offset-pagination`
 
 This project demonstrates a robust **Offset-Based Pagination** system built with React. It efficiently fetches and displays products from a **REST API (dummyjson.com)**, allowing users to navigate through large datasets using a controlled, interactive pagination bar.
 

@@ -1,7 +1,7 @@
 # ♾️ Infinite-Scroll-by-using-Throttle ⏱️
 
-🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/04-infinite-scroll-by-using-throttle`
+🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
+📁 Path: `react-ui-lab/04-infinite-scroll-by-using-throttle`
 
 This project demonstrates an **Infinite Scroll** Products Page built with React, where products are dynamically loaded as the user scrolls. It uses **throttling** to control scroll-triggered API calls, preventing excessive requests and ensuring smooth performance while handling large datasets efficiently.
 

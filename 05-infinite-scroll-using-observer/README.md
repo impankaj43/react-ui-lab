@@ -1,7 +1,7 @@
 # ♾️ Infinite-Scroll-using-Observer 👁️
 
-🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/05-infinite-scroll-using-observer`
+🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
+📁 Path: `react-ui-lab/05-infinite-scroll-using-observer`
 
 This project demonstrates an **Infinite Scroll Products Page** built with React, where products are dynamically fetched as the user scrolls. It uses the **Intersection Observer API** to detect when the user reaches the end of the list and triggers API calls to load more data, ensuring efficient performance and a smooth user experience.
 

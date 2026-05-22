@@ -1,7 +1,7 @@
 # 🌗 Theme Mode With Custom Toggle Button
 
-🔗 **Repo**: [`react-machine-coding-practice`](https://github.com/impankaj43/react-machine-coding-practice)  
-📁 Path: `react-machine-coding-practice/02-theme-mode-with-custom-toggle-button`
+🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
+📁 Path: `react-ui-lab/02-theme-mode-with-custom-toggle-button`
 
 This project demonstrates how to implement a Light and Dark Theme Mode in React using a custom-built toggle button. The theme state is managed globally and dynamically updates the UI styles based on the selected mode. The implementation focuses purely on theme switching logic, ensuring smooth transitions and a scalable structure that can be reused across any React application, regardless of its content.
 

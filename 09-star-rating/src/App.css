@@ -1,0 +1,48 @@
+.main {
+  text-align: center;
+  max-width: 720px;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.main h2 {
+  border-bottom: 2px solid black;
+}
+
+.reset {
+  background-color: red;
+  color: white;
+  padding: 5px 8px;
+  border-radius: 5px;
+}
+
+.star {
+  position: relative;
+  display: inline-block;
+  font-size: 38px;
+  line-height: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.empty {
+  color: gray;
+  width: 100%;
+  cursor: pointer;
+}
+.empty:hover {
+  color: gold;
+}
+
+.filled-half {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50%;
+  color: gold;
+  overflow: hidden;
+  cursor: pointer;
+}

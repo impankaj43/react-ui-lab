@@ -39,6 +39,10 @@ A React-based Virtualized List (Windowing) implementation that renders only visi
 
 This project demonstrates a reusable and dynamic Progress Bar component built with React. It showcases how to manage This project showcases a reusable Progress Bar component built with React that dynamically visualizes task completion.
 
+### 9. Star Rating
+
+A reusable React Star Rating component that supports rating selection, hover preview, and controlled mode. This project focuses on state management, event handling, dynamic UI rendering, and building reusable interactive components.
+
 ---
 
 ## 🙌 Contribution

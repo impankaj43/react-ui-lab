@@ -35,6 +35,10 @@ A React-based Offset Pagination system that fetches and displays products from a
 
 A React-based Virtualized List (Windowing) implementation that renders only visible items in the viewport to efficiently handle thousands of rows and improve application performance.
 
+### 8. Progress Bar
+
+This project demonstrates a reusable and dynamic Progress Bar component built with React. It showcases how to manage This project showcases a reusable Progress Bar component built with React that dynamically visualizes task completion.
+
 ---
 
 ## 🙌 Contribution

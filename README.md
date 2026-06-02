@@ -15,7 +15,7 @@ React.js • Hooks • State Management • Custom Hooks • Debouncing • Thro
 
 | #   | Project                                  | Description                                                                                                                                |
 | --- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Todo List**                            | User management application featuring CRUD operations, dynamic forms, file uploads, and image preview using controlled components.         |
+| 1   | **Todo List**                            | User management application featuring CRUD operations, form handling, file uploads, and image preview using controlled components.         |
 | 2   | **Theme Mode With Custom Toggle Button** | Light/Dark theme implementation with a custom toggle and globally managed theme state.                                                     |
 | 3   | **Debounce Searchable Dropdown**         | Searchable dropdown with debounced search, dynamic fetching, and optimized user interactions.                                              |
 | 4   | **Infinite Scroll Using Throttle**       | Infinite scrolling implementation using throttling for efficient API calls and large dataset handling.                                     |

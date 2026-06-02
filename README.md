@@ -7,41 +7,18 @@ This repository is a curated collection of hands-on React UI implementations and
 
 ## Projects
 
-### 1. Todo List
-
-A React-based User Management (Todo-style) application featuring complete CRUD operations, dynamic form handling, file uploads, and real-time image preview using controlled components with scalable state-driven UI management.
-
-### 2. Theme Mode With Custom Toggle Button
-
-A React application demonstrating Light and Dark Theme Mode implementation using a custom toggle button with globally managed theme state and dynamic UI style updates for a scalable and reusable theme-switching architecture.
-
-### 3. Debounce Searchable Dropdown
-
-A React-based searchable dropdown implementing Debounced Search to optimize API calls, with smooth dropdown visibility management, dynamic user fetching, and seamless item selection for a real-world user experience.
-
-### 4. Infinite Scroll Using Trottle
-
-A React-based Infinite Scroll Products Page that dynamically loads products on scroll using throttling to optimize API calls, improve performance, and efficiently handle large datasets
-
-### 5. Infinite Scroll Using Observer
-
-A React-based Infinite Scroll Products Page that dynamically fetches products using the Intersection Observer API to detect scroll position and load more data efficiently for a smooth user experience.
-
-### 6. Offset Based Pagination
-
-A React-based Offset Pagination system that fetches and displays products from a REST API with an interactive pagination bar for efficient navigation through large datasets.
-
-### 7. Vertualize List
-
-A React-based Virtualized List (Windowing) implementation that renders only visible items in the viewport to efficiently handle thousands of rows and improve application performance.
-
-### 8. Progress Bar
-
-This project demonstrates a reusable and dynamic Progress Bar component built with React. It showcases how to manage This project showcases a reusable Progress Bar component built with React that dynamically visualizes task completion.
-
-### 9. Star Rating
-
-A reusable React Star Rating component that supports rating selection, hover preview, and controlled mode. This project focuses on state management, event handling, dynamic UI rendering, and building reusable interactive components.
+| #   | Project                                  | Description                                                                                                                                |
+| --- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Todo List**                            | User management application featuring CRUD operations, dynamic forms, file uploads, and image preview using controlled components.         |
+| 2   | **Theme Mode With Custom Toggle Button** | Light/Dark theme implementation with a custom toggle and globally managed theme state.                                                     |
+| 3   | **Debounce Searchable Dropdown**         | Searchable dropdown with debounced search, dynamic fetching, and optimized user interactions.                                              |
+| 4   | **Infinite Scroll Using Throttle**       | Infinite scrolling implementation using throttling for efficient API calls and large dataset handling.                                     |
+| 5   | **Infinite Scroll Using Observer**       | Infinite scrolling powered by the Intersection Observer API for efficient data loading.                                                    |
+| 6   | **Offset Based Pagination**              | Offset-based pagination with dynamic data fetching and interactive page navigation.                                                        |
+| 7   | **Virtualized List**                     | Windowing implementation that renders only visible items for high-performance large lists.                                                 |
+| 8   | **Progress Bar**                         | Reusable progress bar component for visualizing task completion and progress updates.                                                      |
+| 9   | **Star Rating**                          | Interactive star rating component supporting selection, hover preview, and controlled state management.                                    |
+| 10  | **Custom Query Editor**                  | Visual query editor for building complex search expressions using dynamic AND/OR groups, debounced search, and real-time query generation. |
 
 ---
 

@@ -5,6 +5,12 @@ This repository is a curated collection of hands-on React UI implementations and
 
 ---
 
+## Concepts Covered
+
+React.js • Hooks • State Management • Custom Hooks • Debouncing • Throttling • Infinite Scroll • Intersection Observer • Pagination • Virtualized Lists • Dynamic Forms • Query Builder • Performance Optimization • Reusable Components
+
+---
+
 ## Projects
 
 | #   | Project                                  | Description                                                                                                                                |

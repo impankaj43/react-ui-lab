@@ -7,7 +7,7 @@ This repository is a curated collection of hands-on React UI implementations and
 
 ## Concepts Covered
 
-React.js • Hooks • State Management • Custom Hooks • Debouncing • Throttling • Infinite Scroll • Intersection Observer • Pagination • Virtualized Lists • Dynamic Forms • Query Builder • Performance Optimization • Reusable Components
+React.js • Hooks • State Management • Custom Hooks • Debouncing • Throttling • Infinite Scroll • Intersection Observer • Pagination • Virtualized Lists • Form Hnadling • Query Builder • Performance Optimization • Reusable Components • Drag and Drop
 
 ---
 
@@ -25,6 +25,7 @@ React.js • Hooks • State Management • Custom Hooks • Debouncing • Thro
 | 8   | **Progress Bar**                         | Reusable progress bar component for visualizing task completion and progress updates.                                                      |
 | 9   | **Star Rating**                          | Interactive star rating component supporting selection, hover preview, and controlled state management.                                    |
 | 10  | **Custom Query Editor**                  | Visual query editor for building complex search expressions using dynamic AND/OR groups, debounced search, and real-time query generation. |
+| 11  | **Kanban Board**                         | Kanban board implementation with native drag-and-drop functionality, task movement across workflow stages, and state-driven UI updates.    |
 
 ---
 

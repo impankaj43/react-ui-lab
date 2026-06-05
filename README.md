@@ -13,19 +13,20 @@ React.js • Hooks • State Management • Custom Hooks • Debouncing • Thro
 
 ## Projects
 
-| #   | Project                                  | Description                                                                                                                                |
-| --- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Todo List**                            | User management application featuring CRUD operations, form handling, file uploads, and image preview using controlled components.         |
-| 2   | **Theme Mode With Custom Toggle Button** | Light/Dark theme implementation with a custom toggle and globally managed theme state.                                                     |
-| 3   | **Debounce Searchable Dropdown**         | Searchable dropdown with debounced search, dynamic fetching, and optimized user interactions.                                              |
-| 4   | **Infinite Scroll Using Throttle**       | Infinite scrolling implementation using throttling for efficient API calls and large dataset handling.                                     |
-| 5   | **Infinite Scroll Using Observer**       | Infinite scrolling powered by the Intersection Observer API for efficient data loading.                                                    |
-| 6   | **Offset Based Pagination**              | Offset-based pagination with dynamic data fetching and interactive page navigation.                                                        |
-| 7   | **Virtualized List**                     | Windowing implementation that renders only visible items for high-performance large lists.                                                 |
-| 8   | **Progress Bar**                         | Reusable progress bar component for visualizing task completion and progress updates.                                                      |
-| 9   | **Star Rating**                          | Interactive star rating component supporting selection, hover preview, and controlled state management.                                    |
-| 10  | **Custom Query Editor**                  | Visual query editor for building complex search expressions using dynamic AND/OR groups, debounced search, and real-time query generation. |
-| 11  | **Kanban Board**                         | Kanban board implementation with native drag-and-drop functionality, task movement across workflow stages, and state-driven UI updates.    |
+| #   | Project                                  | Description                                                                                                                                      |
+| --- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Todo List**                            | User management application featuring CRUD operations, form handling, file uploads, and image preview using controlled components.               |
+| 2   | **Theme Mode With Custom Toggle Button** | Light/Dark theme implementation with a custom toggle and globally managed theme state.                                                           |
+| 3   | **Debounce Searchable Dropdown**         | Searchable dropdown with debounced search, dynamic fetching, and optimized user interactions.                                                    |
+| 4   | **Infinite Scroll Using Throttle**       | Infinite scrolling implementation using throttling for efficient API calls and large dataset handling.                                           |
+| 5   | **Infinite Scroll Using Observer**       | Infinite scrolling powered by the Intersection Observer API for efficient data loading.                                                          |
+| 6   | **Offset Based Pagination**              | Offset-based pagination with dynamic data fetching and interactive page navigation.                                                              |
+| 7   | **Virtualized List**                     | Windowing implementation that renders only visible items for high-performance large lists.                                                       |
+| 8   | **Progress Bar**                         | Reusable progress bar component for visualizing task completion and progress updates.                                                            |
+| 9   | **Star Rating**                          | Interactive star rating component supporting selection, hover preview, and controlled state management.                                          |
+| 10  | **Custom Query Editor**                  | Visual query editor for building complex search expressions using dynamic AND/OR groups, debounced search, and real-time query generation.       |
+| 11  | **Kanban Board**                         | Kanban board implementation with native drag-and-drop functionality, task movement across workflow stages, and state-driven UI updates.          |
+| 12  | **File EXplorer**                        | Build a File Explorer component in React that renders a nested tree structure from JSON data. User can expand/collapse folders and select files. |
 
 ---
 

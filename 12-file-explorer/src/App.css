@@ -1,0 +1,41 @@
+.main {
+  text-align: center;
+  max-width: 768px;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.main h2 {
+  border-bottom: 2px solid black;
+}
+
+.file-explorer-container {
+  text-align: left;
+  border: 1px solid lightgray;
+  border-radius: 2px;
+  background-color: whitesmoke;
+}
+
+.file-explorer-container {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+.node {
+  width: 100%;
+}
+.node-row {
+  background-color: whitesmoke;
+  display: flex;
+  gap: 8px;
+  border-bottom: 1px solid lightgray;
+  cursor: pointer;
+  padding: 12x;
+}
+
+.active-row {
+  background-color: lightgreen;
+}

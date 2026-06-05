@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="main">
-      <h2>File Explorer Implementation</h2>
+      <h2>File Explorer / Nested Tree Implementation</h2>
       <div className="file-explorer-container">
         <button onClick={() => setExpandAll((prev) => !prev)}>
           {expandAll ? "Collaps All" : "Expand All"}

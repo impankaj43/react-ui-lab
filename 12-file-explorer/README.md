@@ -3,7 +3,7 @@
 🔗 **Repo**: [`react-ui-lab`](https://github.com/impankaj43/react-ui-lab)  
 📁 Path: `react-ui-lab/12-file-explorer`
 
-Build a **File Explorer** component in React that renders a nested tree structure from JSON data. User can expand/collapse folders, select/deselect multiple files, and expand/collapse all folders at once.
+Build a **File Explorer** component in React that renders a nested tree structure from JSON data. User can expand/collapse folders, select/deselect multiple files, expand/collapse all folders at once, and add/delete files or folders at any level via a context menu.
 
 ---
 
@@ -16,6 +16,8 @@ Build a **File Explorer** component in React that renders a nested tree structur
 - 🔸 useCallback with functional update pattern to avoid stale closure
 - 🔸 React.memo to prevent unnecessary re-renders
 - 🔸 Depth based dynamic indentation
+- 🔸 Recursive immutable state update for add/delete at any level
+- 🔸 Context menu implementation on right click
 
 ---
 

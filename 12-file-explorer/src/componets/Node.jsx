@@ -1,6 +1,13 @@
 import React, { useEffect, useState } from "react";
 
-function Node({ nodeData, depth, selectedIds, updateSelectedIds, expandAll }) {
+function Node({
+  nodeData,
+  depth,
+  selectedIds,
+  updateSelectedIds,
+  expandAll,
+  contextMenu,
+}) {
   const [open, setOpen] = useState(false);
 
   useEffect(() => {
@@ -29,6 +36,7 @@ function Node({ nodeData, depth, selectedIds, updateSelectedIds, expandAll }) {
             ? "node-row active-row"
             : "node-row"
         }
+        onContextMenu={(e) => contextMenu(e, nodeData)}
       >
         <span>
           {nodeData.type === "folder" ? (open ? "⮮🗂️" : "⮩🗂️") : "📄"}
@@ -36,7 +44,7 @@ function Node({ nodeData, depth, selectedIds, updateSelectedIds, expandAll }) {
         <span>{nodeData.name}</span>
       </div>
       {nodeData.type === "folder" &&
-        nodeData?.children.length &&
+        nodeData?.children.length > 0 &&
         open &&
         nodeData.children?.map((data) => (
           <Node
@@ -46,6 +54,7 @@ function Node({ nodeData, depth, selectedIds, updateSelectedIds, expandAll }) {
             updateSelectedIds={updateSelectedIds}
             selectedIds={selectedIds}
             expandAll={expandAll}
+            contextMenu={contextMenu}
           />
         ))}
     </div>
